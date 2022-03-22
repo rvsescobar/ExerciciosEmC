@@ -28,6 +28,7 @@ Solução dentro vinculada ao arquivo exercicio_02.cpp
 > - A idade média dos alunos;
 > - O percentual de alunos do sexo masculino e do sexo feminino;
 > - E qual a atividade mais feita atualmente, sendo elas: musculação, corrida e fotos no aparelho.
+>
 > _Para finalizar o programa, o usuário informará uma idade negativa._
 
 ```sh
