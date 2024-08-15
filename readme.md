@@ -10,7 +10,7 @@ Este repositório consiste em alguns exercícios básicos e de treinamento na li
 > _Para finalizar o programa, o usuário informará a quantidade de horas igual a 0._
 
 ```sh
-Solução dentro vinculada ao arquivo exercicio_01.cpp
+Solução vinculada ao arquivo exercicio_01.cpp
 ```
 --------------------------------------------------------------------------
 ### Exercício 02 - Enunciado
@@ -18,7 +18,7 @@ Solução dentro vinculada ao arquivo exercicio_01.cpp
 > Desenvolva um programa que dado um número inteiro, retorne através de função o seu dobro, a sua metade, o seu quadrado e o sua terça parte.
 
 ```sh
-Solução dentro vinculada ao arquivo exercicio_02.cpp
+Solução vinculada ao arquivo exercicio_02.cpp
 ```
 --------------------------------------------------------------------------
 ### Exercício 03 - Enunciado
@@ -32,7 +32,7 @@ Solução dentro vinculada ao arquivo exercicio_02.cpp
 > _Para finalizar o programa, o usuário informará uma idade negativa._
 
 ```sh
-Solução dentro vinculada ao arquivo exercicio_03.cpp
+Solução vinculada ao arquivo exercicio_03.cpp
 ```
 --------------------------------------------------------------------------
 ### Exercício 04 - Enunciado
@@ -40,6 +40,6 @@ Solução dentro vinculada ao arquivo exercicio_03.cpp
 > Desenvolva um programa, onde dado um número inteiro qualquer, exiba os números impares, inclusive, em ordem descrescente.
 
 ```sh
-Solução dentro vinculada ao arquivo exercicio_04.cpp
+Solução vinculada ao arquivo exercicio_04.cpp
 ```
 --------------------------------------------------------------------------
